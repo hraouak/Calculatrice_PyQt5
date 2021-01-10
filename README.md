@@ -1,3 +1,6 @@
 # Calculatrice_PyQt5
 
-![alt text](https://github.com/hraouak/Calculatrice_PyQt5//blob/main/Screenshot.png?raw=true)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hraouak/Calculatrice_PyQt5/main/Screenshot.png" />
+</p>
+
